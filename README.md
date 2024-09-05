@@ -1,4 +1,4 @@
-Project: DateTrivia App
+Project: Cat Fact App
 ==================================
 
 
