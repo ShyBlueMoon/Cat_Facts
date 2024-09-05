@@ -1,4 +1,4 @@
-Project: Cat Fact App
+Project: Cat Facts App
 ==================================
 
 
